@@ -1,6 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zwj" format="2">
-  <advance width="0" height="1000"/>
   <unicode hex="200D"/>
   <outline>
     <contour>
@@ -21,10 +20,4 @@
       <point x="21" y="-133" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.verticalOrigin</key>
-      <integer>880</integer>
-    </dict>
-  </lib>
 </glyph>

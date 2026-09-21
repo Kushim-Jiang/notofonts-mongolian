@@ -1,6 +1,6 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="fvs4" format="2">
-  <advance width="770" height="1000"/>
+  <advance width="770"/>
   <unicode hex="180F"/>
   <outline>
     <contour>
@@ -159,12 +159,4 @@
       <point x="290" y="331" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>1,0.752941176470588,0.4,1</string>
-      <key>public.verticalOrigin</key>
-      <integer>880</integer>
-    </dict>
-  </lib>
 </glyph>
