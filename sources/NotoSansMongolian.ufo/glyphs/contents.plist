@@ -1910,6 +1910,8 @@
     <string>_W_p.medi.glif</string>
     <key>_WpA.fina</key>
     <string>_W_pA_.fina.glif</string>
+    <key>_WpLv.fina</key>
+    <string>_W_pL_v.fina.glif</string>
     <key>_Y.init</key>
     <string>_Y_.init.glif</string>
     <key>_Y.medi</key>
@@ -6476,6 +6478,8 @@
     <string>u18A_6.W_p.medi._isol.glif</string>
     <key>u18A6_u1820.WpA.fina</key>
     <string>u18A_6_u1820.W_pA_.fina.glif</string>
+    <key>u18A6_u1843.WpLv.fina</key>
+    <string>u18A_6_u1843.W_pL_v.fina.glif</string>
     <key>u18A7</key>
     <string>u18A_7.glif</string>
     <key>u18A7.Ir.fina</key>
